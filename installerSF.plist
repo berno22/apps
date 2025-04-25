@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string> https://www.dropbox.com/scl/fi/kv7mp9exti4vt9m3hjnk8/Netflix_3.0_1744692573.ipa?rlkey=khf6qv4o9lw4jt25efsebla7v&st=9fpvkw43&raw=1</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.netflix.mine</string>
+				<key>bundle-version</key>
+				<string>5.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Netflix</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
